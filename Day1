@@ -1,1 +1,38 @@
 This file is created as part of the git course day1
+
+
+
+Git is a version controlling tool, where you store and manage the code of applications
+
+
+go to git-scm.com
+
+
+Download Git bash tool
+
+
+
+Go to Gitbash tool
+
+------------------
+
+
+Every team will own some repsitories
+
+
+Our teams is responsible for Gitcourse
+---------------------------------------
+
+
+I need to clone the Gitcourse repo
+
+
+git clone giturl
+
+
+
+
+
+
+
+
